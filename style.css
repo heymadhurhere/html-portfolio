@@ -1,0 +1,144 @@
+.introduction {
+    height: 100vh;
+    background-image: url(./headerimg.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.heading {
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    color: #755139FF;
+    font-style: normal;
+  }
+  .subheading {
+    font-family: "Playwrite CU", cursive;
+    text-align: left;
+  }
+  .per {
+    text-decoration: underline;
+  }
+  .profileimg {
+    border-radius: 50%;
+  }
+  .hello {
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    color: #3DC2EC;
+  }
+  .skills-heading{
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    color: #3DC2EC;
+  }
+  .parent{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+  }
+  .cpp{
+    display: block;
+  }
+  .dsa{
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    display: block;
+    font-size: 1.17rem;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  .learn-html{
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    display: block;
+    font-size: 1.17rem;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  .learn-css{
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    display: block;
+    font-size: 1.17rem;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  .get-touch{
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    color: #3DC2EC;
+  }
+  .touch-message{
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    display: block;
+    font-size: 1.17rem;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  .contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+  }
+  .btn{
+    background-color: #11cdd4;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  .final-content{
+    background-color: #3DC2EC;
+  }
+  .logo{
+    height: 25px;
+  }
+  .coding-profile{
+    font-size: 1.5rem;
+    color: #3DC2EC;
+  }
+  .btn2{
+    background-color: #11cdd4;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    padding: 5px 10px 5px 10px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  .icon-square{
+    border-radius: 8px;
+  }
+  .profile-intro{
+    color: #3DC2EC;
+    font-size: 2.5rem;
+    font-weight: normal;
+  }
+  
+  
